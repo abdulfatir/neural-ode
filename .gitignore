@@ -1,0 +1,5 @@
+*.pyc
+*.jpg
+__pycache__
+.DS_Store
+.ipynb_check*
